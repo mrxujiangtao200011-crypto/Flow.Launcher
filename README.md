@@ -1,4 +1,5 @@
 <p align="center">
+[![Featured on AppWK](https://appwk.cn/badges/featured-dark.svg)](https://appwk.cn/apps/flow-launcher)
         <a href="https://flowlauncher.com">
         	<img src="https://user-images.githubusercontent.com/6903107/207167068-2196d2a3-2caa-4856-958b-a780fbda95c6.gif" width="500">
         </a><br />
