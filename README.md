@@ -1,5 +1,4 @@
 <p align="center">
-[![Featured on AppWK](https://appwk.cn/badges/featured-dark.svg)](https://appwk.cn/apps/flow-launcher)
         <a href="https://flowlauncher.com">
         	<img src="https://user-images.githubusercontent.com/6903107/207167068-2196d2a3-2caa-4856-958b-a780fbda95c6.gif" width="500">
         </a><br />
@@ -392,6 +391,7 @@ Or download the [early access version](https://github.com/Flow-Launcher/Prerelea
 
 - [Why I Chose to Support Flow-Launcher](https://dev.to/appwrite/appwrite-loves-open-source-why-i-chose-to-support-flow-launcher-54pj) - Appwrite
 - [Softpedia Editor's Pick](https://www.softpedia.com/get/System/Launchers-Shutdown-Tools/Flow-Launcher.shtml)
+- [![Featured on AppWK](https://appwk.cn/badges/featured-dark.svg)](https://appwk.cn/apps/flow-launcher)
 
 <img src="https://user-images.githubusercontent.com/6903107/144858082-8b654daf-60fb-4ee6-89b2-6183b73510d1.png" width="100%">
 
